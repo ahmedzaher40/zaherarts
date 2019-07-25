@@ -7,6 +7,6 @@
     </head>
     <body>
         <h1>Welcome</h1>
-        <p>edit for see it on Git</p>
+        <p style="text-align:center;color:blue;font-size:30px;font-weight:600;">edit for see it on Git</p>
     </body>
 </html>
